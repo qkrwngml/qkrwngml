@@ -1,20 +1,38 @@
+## Projects
 
-<h1 align="center">Hi there! I'm JUHEE PAK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+- **2023.07.07~07.14**  
+  멋쟁이사자처럼 12th HERETHON - **'안'심하고 '도'착할 수 있는 안전귀가 서비스 ANDO**
 
-- 🏫 Dongduk Women's University | Computer Science
-- 📫 Reach me at **pjh402941@gmail.com**
+- **2023.08.09~08.19**  
+  멋쟁이사자처럼 12th 중앙해커톤 - **디지털 격차 해소를 위한 체험형 이커머스 교육 서비스 To buy**
 
-<br/>
+- **2023.09.15~10.02**  
+  동덕여자대학교 축제사이트 - **uniVERSE**
 
-### ⚙️ Tech Stack 
- <img src="https://skillicons.dev/icons?i=java,c,html,css,js,react" />
+- **2023.11.03~11.12**  
+  멋쟁이사자처럼 12th 미르톤 - **캐릭터 육성 플로깅 기록 서비스 플로키**
 
-### 🔧 Tools | Use
- <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,visualstudio,figma,eclipse,notion" />
+- **2024.02.20~03.13**  
+  동덕여자대학교 멋쟁이사자처럼 12th - **합격자 조회 사이트**
 
-<br/><br/>
+- **2024.06.29~07.02**  
+  하나 디지털 파워온 3기 예선 - **AI 기반 외국인 유학생 근로권익 보호 및 재정관리 서비스 러피스(LRPIS)**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwngml&show_icons=true&theme=buefy)
+- **2024.07.22~07.30**  
+  동덕여자대학교 창업동아리 - **현대인들의 과로로 인한 불안과 강박 해소 쉼 추천 서비스 휴(HYU)**
+
+
+## Activities
+
+- 🦁 멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 11th FE 아기사자
+- 🦁 멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 12th FE 운영진
+- 🏦 하나금융 디지털 파워온 프로젝트 3기
+  
+
+## Awards
+
+- 🥇 멋쟁이사자처럼 대학 소속 연합 해커톤 (미르톤) - **대상**
+
 
 <div align="center">
  <br/>
